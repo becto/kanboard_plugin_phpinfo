@@ -1,5 +1,16 @@
-# kanboard plugin PHP Info
+# PHP-Info Kanboard Plugin
 
-This plugin provides php function phpinfo() in settings page
+- This plugin provides php function phpinfo() in settings page
+- Plugin for https://github.com/fguillot/kanboard
 
-Create a folder Phpinfo in the plugin folder an copy all files inside.
+Author:
+
+- Tobias Becker - Latest additions
+- Busfreak - Original Fork: kanboard_plugin_phpinfo
+
+Installation:
+
+- Decompress the archive in the plugins folder  
+or
+- Create a folder plugins/Phpinfo
+- Copy all files under this directory
