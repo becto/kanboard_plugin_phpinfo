@@ -2,15 +2,16 @@
 
 namespace Kanboard\Plugin\Phpinfo\Controller;
 
-use Kanboard\Controller\Base;
+use Kanboard\Controller\BaseController;
 
 /**
  * Phpinfo
  *
  * @package controller
- * @author  Martin Middeke
+ * @author:  Martin Middeke
+ * @changes/bugfix: Tobias Becker
  */
-class Phpinfo extends Base
+class Phpinfo extends BaseController
 {
     /**
      * Phpinfo index page
