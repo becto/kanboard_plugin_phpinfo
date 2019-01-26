@@ -25,7 +25,7 @@ class Plugin extends Base
 
     public function getPluginAuthor()
     {
-        return 'Martin Middeke';
+        return 'Martin Middeke / Tobias Becker';
     }
 
     public function getPluginVersion()
@@ -35,6 +35,6 @@ class Plugin extends Base
 
 	    public function getPluginHomepage()
     {
-        return 'https://github.com/Busfreak/kanboard-Phpinfo';
+        return 'https://github.com/becto/kanboard-Phpinfo';
     }
 }
