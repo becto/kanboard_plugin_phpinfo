@@ -33,8 +33,8 @@ class Plugin extends Base
         return '0.0.1';
     }
 
-	    public function getPluginHomepage()
+    public function getPluginHomepage()
     {
-        return 'https://github.com/becto/kanboard-Phpinfo';
+        return 'https://github.com/becto/kanboard_plugin_phpinfo';
     }
 }
